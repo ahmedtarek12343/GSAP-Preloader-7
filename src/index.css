@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer base {
+  .main-text {
+    font-family: Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  }
+}
